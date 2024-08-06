@@ -28,12 +28,14 @@ This project is created for practice purposes to demonstrate my ability to write
 
 ## Example
 
-If you enter `4 5` as the number of rows and columns, the output will be:
+If you enter 4 5 as the number of rows and columns, the output will be:
 
-1 2 3 4 5
-14 15 16 17 6
-13 20 19 18 7
-12 11 10 9 8
+```
+1   2   3   4   5
+14  15  16  17  6
+13  20  19  18  7
+12  11  10  9   8
+```
 
 
 ## Requirements
