@@ -4,8 +4,8 @@ One of the projects in this repository is the Number Guesser Game. Here’s a qu
 🎮 What It Is
 The Number Guesser Game comes with two fun modes:
 
-Human Guessing: The computer picks a random number within a range you provide, and you try to guess it. The game tells you if your guess is too high or too low.
-Computer Guessing: You pick a number within a range, and the computer tries to guess it. You provide feedback to help it narrow down the guesses.
+1. Human Guessing: The computer picks a random number within a range you provide, and you try to guess it. The game tells you if your guess is too high or too low.
+2. Computer Guessing: You pick a number within a range, and the computer tries to guess it. You provide feedback to help it narrow down the guesses.
 
 🚀 How to Run It
 
